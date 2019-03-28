@@ -1,1 +1,1 @@
-# Callback-Biases
+This repository is a statistical analysis aimed at answer the following question: does race have a significant impact on the rate of callbacks for resumes. Here, I use computational and statistical approaches (Bootstrapping Hypothesis Testing and Frequentist Test) to test the null hypothesis- that race does not play a significant role for resume callbacks. 
